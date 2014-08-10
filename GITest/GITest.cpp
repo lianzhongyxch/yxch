@@ -6,6 +6,7 @@
 int main(int argc, char* argv[])
 {
 	printf("Hello World!\n");
+	printf("my name is yxch\r\n");
 	return 0;
 }
 
